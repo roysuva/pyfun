@@ -2,8 +2,6 @@ Testing branch 2
 
 August 1, 2016
 
-new changes
-
 Source Code Management (SCM)
 
 
