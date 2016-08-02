@@ -1,3 +1,5 @@
 Branch 2 is pretty cool. 
 
 I will keep this. 
+
+Line 5 added in branch2
