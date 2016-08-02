@@ -3,3 +3,5 @@ Branch 2 is pretty cool.
 I will keep this. 
 
 Line 5 edited
+
+Line 7 added 
