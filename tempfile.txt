@@ -2,5 +2,6 @@ Branch 2 is pretty cool.
 
 I will keep this. 
 
-Line 5 edited
+Line 5 added in branch2 and extended
 
+This line is added in new
